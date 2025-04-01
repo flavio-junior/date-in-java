@@ -3,7 +3,7 @@ package br.com.date.java;
 import java.time.*;
 import java.time.temporal.*;
 
-public class ShowHours implements InternalDates {
+public class ShowDateAndHour implements InternalDates {
 
     @Override
     public void LocalDate() {

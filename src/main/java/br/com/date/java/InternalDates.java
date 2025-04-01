@@ -1,9 +1,9 @@
 package br.com.date.java;
 
 public interface InternalDates {
-    public void LocalDate();
-    public void LocalDateTime();
-    public void LocalDateTimeWithoutSeconds();
-    public void Instant();
-    public void InstantWithoutWithoutSeconds();
+    void LocalDate();
+    void LocalDateTime();
+    void LocalDateTimeWithoutSeconds();
+    void Instant();
+    void InstantWithoutWithoutSeconds();
 }
